@@ -4,6 +4,18 @@ import subprocess
 from datetime import datetime
 
 subprocess.call("clear")
+print ("/////////     //////////////  ///////////  ///////////////        ///////////     /////////////   //\\               //\\            //")
+print ("//     //    //          //  //      ///        //               ///             //              //  \\             //  \\          // ")
+print ("//     //   //          //  //      ///        //               ///             //              //    \\           //    \\        //  ")
+print ("/////////  //          //  ///////////        //               /////////////   //              //::::::\\         //      \\      //   ")
+print ("//        //          //  //        \\        //                         ///   //              //        \\       //        \\    //    ")
+print ("//       //          //  //          \\      //                         ///   //              //          \\     //          \\  //     ")
+print ("//      //////////////  //            \\    //                 ///////////   //////////////  //            \\   //            \\//      ")
+
+print (" ")
+print ("                      mehrdad sepehr                                                                                                    ")
+print (" ")
+
 remoteserver_IP = input("enter IP address : ")
 remoteserver_address = socket.gethostbyname(remoteserver_IP)
 print ("-"*40)
